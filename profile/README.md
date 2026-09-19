@@ -1,4 +1,6 @@
-![TeamQuaver](./img/quaver-icon-dark.svg)
+<p align="center">
+  <img src="img/quaver-icon-dark.svg" width="100">
+</p>
 
 ## Hi there 👋
 
