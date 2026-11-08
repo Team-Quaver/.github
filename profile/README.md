@@ -12,6 +12,6 @@ Quaver Music，是一个跨平台的，基于 Electron + Vite + Python（未来�
 
 Lumine Wayland 混成器 （曾经叫 NeoFuckGNOMEWaylandCompositor or NfGW），使用 C + Wlroots 构建，而与此同时，对应的 Stella Shell，使用 QML 构建，依旧使用 AI ~~辅助~~ Vibe 而来
 
-- [Quaver Music 官网（正在建设）](https://quaver.0w0.red)
-- [Lumine Wayland 合成器（曾经叫 NeoFuckGNOMEWaylandCompositor） 与 Stella Shell 官网（正在建设）](https://lumine.0w0.red)
+- [Quaver Music 官网](https://quaver.0w0.red)
+- [Lumine Wayland 合成器与 Stella Shell 官网（正在建设）](https://lumine.0w0.red)
 - Quaver Music 交流群：未建设
